@@ -1,0 +1,6 @@
+#Library Config
+#Sat Apr 07 09:18:28 CST 2012
+BookSorts=0
+BorrowNum=0
+AssortSorts=0
+BookSize=0
